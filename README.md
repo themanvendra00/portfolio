@@ -2,6 +2,9 @@
 
 A single-page personal portfolio styled like **Visual Studio Code**: explorer sidebar, tabs, editor area with syntax-highlighted “files,” activity bar, and status bar. All content and styling live in one static HTML file—no build step or framework.
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/981e425c-7707-43bd-bc6d-27f682da265a" />
+
+
 ## Sections
 
 | “File”            | Content                          |
